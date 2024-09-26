@@ -1,4 +1,4 @@
-* The picture used as the profile photo and my website logo is my actual artwork, which is copyrighted. *
+🖼 The picture used as the profile photo and my website logo is my actual artwork, which is copyrighted.
 
 <!--
 **yuhyunjeong/yuhyunjeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
